@@ -1,0 +1,12 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "1.920",
+		"android": "1.920"
+	},
+	"id": "capeling.startpos-switcher-1920",
+	"name": "startpos-switcher-1920",
+	"version": "v1.0.0",
+	"developer": "capeling",
+	"description": ""
+}
