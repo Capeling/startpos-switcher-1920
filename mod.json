@@ -5,8 +5,18 @@
 		"android": "1.920"
 	},
 	"id": "capeling.startpos-switcher-1920",
-	"name": "startpos-switcher-1920",
+	"name": "Startpos Switcher",
 	"version": "v1.0.0",
 	"developer": "capeling",
-	"description": ""
+	"description": "",
+    "links": {
+        "homepage": "https://x.com/capeling_",
+        "source": "https://github.com/Capeling/Startpos-Switcher"
+    },
+    "tags": [
+		"enhancement",
+		"gameplay",
+		"interface",
+		"utility"
+	]
 }
